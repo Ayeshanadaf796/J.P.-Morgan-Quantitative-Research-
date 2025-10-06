@@ -1,3 +1,5 @@
+ <img src="images/J.P Morgan.jpg" alt="logo" width="1500">
+
 # J.P. Morgan Quantitative Research Virtual Experience
 
 This repository showcases my completion of the **J.P. Morgan Quantitative Research Virtual Experience Program** offered on **Forage**, where I gained hands-on exposure to **financial modeling, risk analysis, and predictive modeling** used in real-world banking and trading environments.
@@ -64,8 +66,4 @@ This experience strengthened my ability to combine **financial knowledge with te
 **Program Provider:** Forage  
 **Completion:** October 2025  
 
-
-
-
-💼 [LinkedIn Profile](#) (optional)
 
